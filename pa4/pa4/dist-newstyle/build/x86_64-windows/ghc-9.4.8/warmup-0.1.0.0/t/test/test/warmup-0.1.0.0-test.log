@@ -1,0 +1,46 @@
+Test suite test: RUNNING...
+Tests
+  Unit 1
+    sample: sumList 1:             OK
+    sample: sumList 2:             OK
+    sample: sumList 3:             OK
+    sample: digitsOfInt 1:         OK
+    sample: digitsOfInt 2:         OK
+    sample: digits 1:              OK
+    sample: digits 2:              OK
+    sample: additivePersistence 1: OK
+    sample: digitalRoot:           OK
+    sample: reverse 1:             OK
+    sample: rev 2:                 OK
+    sample: palindrome 1:          OK
+    sample: palindrome 2:          OK
+  Unit 2
+    sqSum 1:                       OK
+    sqSum 2:                       OK
+    sqSum 3:                       OK
+    pipe 1:                        OK
+    pipe 2:                        OK
+    pipe 3:                        OK
+    sepConcat 1:                   OK
+    sepConcat 2:                   OK
+    sepConcat 3:                   OK
+    sepConcat 4:                   OK
+    stringOfList 1:                OK
+    stringOfList 2:                OK
+    stringOfList 3:                OK
+    clone 1:                       OK
+    clone 2:                       OK
+    padzero 1:                     OK
+    padzero 2:                     OK
+    removeZero 1:                  OK
+    removeZero 2:                  OK
+    bigAdd 1:                      OK
+    bigAdd 2:                      OK
+    mulByDigit 1:                  OK
+    bigMul 1:                      OK
+    bigMul 2:                      OK
+
+All 37 tests passed (0.01s)
+OVERALL SCORE = 37 / 37
+Test suite test: PASS
+Test suite logged to: C:\Users\orion\Downloads\cs538\pa4\pa4\dist-newstyle\build\x86_64-windows\ghc-9.4.8\warmup-0.1.0.0\t\test\test\warmup-0.1.0.0-test.log

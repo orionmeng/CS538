@@ -1,0 +1,9 @@
+{
+  "name": "pa1",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "immutable": "^5.0.0-beta.5"
+  }
+}

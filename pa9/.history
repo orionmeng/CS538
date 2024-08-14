@@ -1,0 +1,90 @@
+:q
+let list = 1 : [2]
+:q
+let list = 1 : [2]
+:q
+let list = 1 : [2]
+:q
+let list = 1 : [2]
+:q
+let list = 1 : [2]
+let list = 1 : 2
+:q
+let list = 1 : [2]
+list
+let list = 1 : 2
+:q
+let list = 1 : []
+let list = 1 : 2
+list
+:type list
+let list = 1 : 2
+list
+let list = 1 : 2
+let list 1 : []
+let list 1 : 2
+:type list
+3
+:type i
+i
+i 3
+let i x = x;
+list
+:type list
+type list
+let list = 1 : 2
+list
+let list = 1 : 2
+:q
+let list = 1 : 2
+:q
+let list = 1 : []
+:q
+let list = 1 : []
+let boolList = True : False
+:q
+let boolList = True : False
+let list = 1 : []
+:q
+:browse
+:
+:usage
+factorial 10
+factorial 3
+let factorial = fix (\factorial n -> if (n == 0) then 1 else (n * (factorial (n-1))));
+let rec factorial n = if (n == 0) then 1 else (n * (factorial (n-1)));
+add 1 2
+let add x y = x + y
+:type compose
+let compose f g = \x -> f (g x)
+:type compose
+:type let compose f g = \x -> f (g x)
+:type i
+i 3
+let i x = x;
+:q
+  then 1
+  if (n == 0) 
+let rec factorial n = 
+:type on
+let on g f = \x y -> g (f x) (f y)
+:type k
+let k x y = x;
+:type let k x y = x;
+:ype let k x y = x;
+:let i x = x;
+:type i
+quit
+load
+browse
+Poly> type i
+(0, [])
+[]
+Forall [] (TCon "Array") /= Forall [TV "a"] (TArray (TVar (TV "a")))
+Forall [] (TCon "Array") /= Forall [TV "a"] (TArray (TVar (TV "a")))
+type let k x y = x;
+type i
+i 3
+let i x = x;
+:l Parser.hs
+testParser
